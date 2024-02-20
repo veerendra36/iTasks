@@ -66,9 +66,8 @@ const Challenges = () => {
               >
                 <Sheet>
                   <SheetTrigger>
-                    <h1 className="text-5xl font-semibold">
-                      {challenge.title}
-                    </h1>
+                    <Button variant="outline" className="text-5xl font-semibold">{challenge.title}</Button>
+                    
                   </SheetTrigger>
                   <SheetContent>
                     <SheetHeader>
