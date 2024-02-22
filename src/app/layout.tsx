@@ -15,10 +15,10 @@ export const metadata: Metadata = {
   description:
     "Elevate your productivity with iTasks — simplifying task management with seamless efficiency and mastering your time effectively.",
   authors: [
-    { name: "Al Siam" },
+    { name: "Veeru" },
     {
-      name: "Al Siam",
-      url: "https://www.x.com/_alsiam/",
+      name: "Veeru",
+      url: "",
     },
   ],
   icons: [
